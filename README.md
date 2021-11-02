@@ -35,9 +35,9 @@
 
 ```
 <p align="center">
-  <a href="https://twitter.com/_thcerutti_"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/thiagocerutti/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/thcerutti/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://medium.com/@thcerutti"><img src="https://img.icons8.com/fluency/96/000000/medium-logo.png"/></a>
-  <a href="https://xboxgamertag.com/search/thcerutti"><img src="https://img.icons8.com/fluency/96/000000/xbox.png"/></a>
+  <a href="https://twitter.com/_thcerutti" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/thiagocerutti/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/thcerutti/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://medium.com/@thcerutti" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/medium-logo.png"/></a>
+  <a href="https://xboxgamertag.com/search/thcerutti" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/xbox.png"/></a>
 </p>
