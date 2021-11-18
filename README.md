@@ -39,5 +39,5 @@
   <a href="https://www.linkedin.com/in/thiagocerutti/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/thcerutti/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://medium.com/@thcerutti" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/medium-logo.png"/></a>
-  <a href="https://xboxgamertag.com/search/thcerutti" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/xbox.png"/></a>
+  <a href="https://account.xbox.com/en-us/profile?gamertag=thcerutti" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/xbox.png"/></a>
 </p>
