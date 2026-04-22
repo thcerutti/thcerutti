@@ -1,35 +1,32 @@
-# 👈 Hi, I'm Thiago and I :heart: tech stuff!
+# 🥁 Olá, Mundo! 🚀
 
-```json
-{
-  "name": "Thiago Cerutti",
-  "role": "Software Engineer",
-  "tech-interests": [
-    "software development",
-    "automation",
-    "microcontrollers",
-    "engineering (all kinds)"
-  ],
-  "human-interests": [
-    "education",
-    "social projects",
-    "sustainability",
-    "urban mobility"
-  ],
-  "hobbies": [
-    "backpacking",
-    "travelling",
-    "hiking",
-    "photography",
-    "reading (Sci-Fi, medieval novels)",
-    "videogames (yes, I'm a nerd 🤓)"
-  ]
-}
-```
-"Yep, that's me. You're probably wondering how I ended up in this situation"
+**Tech Lead | Trekker | Percussionista nas horas vagas**
 
-Follow me on my social networks and find it out! :wink:
+Sou um entusiasta de tecnologia que acredita que código bom é aquele que resolve problemas reais. Atualmente, focado em liderar projetos de **P&D e Inovação**, explorando arquiteturas modernas e o potencial da IA.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocerutti/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thcerutti)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thcerutti)
+---
+
+### 🛠️ No que ando trabalhando (e estudando)
+* **Full-Stack & Além:** Vasta experiência em múltiplas stacks — **front-end**, **back-end**, **infra**, **design systems** e mais, cobrindo desde interfaces até arquiteturas escaláveis.
+* **Inovação:** Atuo como **Tech Lead** de um time que desenvolve projetos para o **setor elétrico brasileiro** — onde experimentar, prototipar e aprender com os erros faz parte do processo.
+
+### 🏔️ Para além das telas
+* **Aventureiro:** Se eu não estiver no Slack, provavelmente estou no topo do **Monte Roraima** ou explorando as trilhas de Floripa.
+* **Músico:** Aluno de percussão com surdo — porque a vida precisa de cadência.
+* **Runner:** Em busca constante de baixar o pace. 🏃‍♂️💨
+
+### 🤝 Mentalidade Open Source & Humana
+Atuo como **mentor de educação** na [ONG Prototipando a Quebrada](https://prototipandoaquebrada.org/), auxiliando quem está começando no mundo de programação.
+> **Se você é iniciante e tem dúvidas, minha DM está sempre aberta!** Vamos aprender juntos.
+
+---
+
+### 📫 Vamos trocar uma ideia?
+Se quiser trocar uma ideia sobre tech, inovação, trilhas ou percussão — os links abaixo são o caminho.
+
+* [LinkedIn](https://www.linkedin.com/in/thiagocerutti/)
+* [Instagram](https://instagram.com/thcerutti)
+* [Medium](https://medium.com/@thcerutti)
+
+---
+*Curiosidade: Este perfil é atualizado entre um café e um commit.* ✨
