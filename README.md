@@ -1,32 +1,48 @@
-# 🥁 Olá, Mundo! 🚀
+# Thiago Cerutti
 
-**Tech Lead | Trekker | Percussionista nas horas vagas**
+**Tech Lead de P&D e Inovação no setor elétrico brasileiro**
+Transformo hipóteses em protótipos — e protótipos em produto.
 
-Sou um entusiasta de tecnologia que acredita que código bom é aquele que resolve problemas reais. Atualmente, focado em liderar projetos de **P&D e Inovação**, explorando arquiteturas modernas e o potencial da IA.
-
----
-
-### 🛠️ No que ando trabalhando (e estudando)
-* **Full-Stack & Além:** Vasta experiência em múltiplas stacks — **front-end**, **back-end**, **infra**, **design systems** e mais, cobrindo desde interfaces até arquiteturas escaláveis.
-* **Inovação:** Atuo como **Tech Lead** de um time que desenvolve projetos para o **setor elétrico brasileiro** — onde experimentar, prototipar e aprender com os erros faz parte do processo.
-
-### 🏔️ Para além das telas
-* **Aventureiro:** Se eu não estiver no Slack, provavelmente estou no topo do **Monte Roraima** ou explorando as trilhas de Floripa.
-* **Músico:** Aluno de percussão com surdo — porque a vida precisa de cadência.
-* **Runner:** Em busca constante de baixar o pace. 🏃‍♂️💨
-
-### 🤝 Mentalidade Open Source & Humana
-Atuo como **mentor de educação** na [ONG Prototipando a Quebrada](https://prototipandoaquebrada.org/), auxiliando quem está começando no mundo de programação.
-> **Se você é iniciante e tem dúvidas, minha DM está sempre aberta!** Vamos aprender juntos.
+[LinkedIn](https://www.linkedin.com/in/thiagocerutti/) · [Medium](https://medium.com/@thcerutti) · [Instagram](https://instagram.com/thcerutti)
 
 ---
 
-### 📫 Vamos trocar uma ideia?
-Se quiser trocar uma ideia sobre tech, inovação, trilhas ou percussão — os links abaixo são o caminho.
+### 🧭 Como eu lidero
+- **Protótipo > slide:** a melhor discussão de arquitetura começa com algo rodando.
+- **Errar rápido e barato:** experimentos com hipótese, métrica e prazo.
+- **Decisão documentada:** ADRs para que o time entenda o *porquê*, não só o *quê*.
+- **Gente primeiro:** time que aprende junto entrega melhor.
 
-* [LinkedIn](https://www.linkedin.com/in/thiagocerutti/)
-* [Instagram](https://instagram.com/thcerutti)
-* [Medium](https://medium.com/@thcerutti)
+<!--
+### 🔬 Radar de inovação
+| Adotando | Experimentando | De olho |
+|---|---|---|
+| ex: TypeScript, Design Systems | ex: agentes de IA, RAG | ex: edge computing em IoT |
+-->
+
+<!--
+### ⚡ Alguns desafios em que trabalhei
+- **Nome do projeto:** problema → abordagem → aprendizado/resultado
+- **Nome do projeto:** problema → abordagem → aprendizado/resultado
+-->
+
+<!--
+### 🛠️ Stack
+![Stack](https://skillicons.dev/icons?i=ts,react,nodejs,docker,aws)
+-->
+
+### ✍️ Artigos em destaque
+- [**Impulsionando a inovação: prototipação e validação rápida**](https://medium.com/rd-shipit/impulsionando-a-inova%C3%A7%C3%A3o-a-import%C3%A2ncia-da-prototipa%C3%A7%C3%A3o-e-valida%C3%A7%C3%A3o-r%C3%A1pida-no-desenvolvimento-de-85bc79012908): por que errar cedo e barato é o caminho mais curto para inovar.
+- [**Por que sua empresa precisa de um laboratório maker**](https://medium.com/way2rocks/por-que-sua-empresa-precisa-de-um-laborat%C3%B3rio-maker-mas-voc%C3%AA-ainda-n%C3%A3o-sabe-disso-6a20a9b7fefd): como nasceu uma cultura de experimentação dentro da empresa.
+- [**Montamos uma estação solar fotovoltaica off-grid**](https://medium.com/way2rocks/montamos-uma-esta%C3%A7%C3%A3o-solar-fotovoltaica-off-grid-quase-plug-and-play-a49518b3fec6): energia e prototipação na prática.
+- [**Como fazer uma blockchain usando Maizena e JavaScript**](https://medium.com/way2rocks/como-fazer-uma-blockchain-usando-maizena-e-javascript-2e8c29ed6e06): desmistificando uma buzzword antes de adotá-la.
+
+### 🤝 Mentoria
+Mentor de educação na [ONG Prototipando a Quebrada](https://prototipandoaquebrada.org/), auxiliando quem está começando no mundo da programação. Escrevi sobre essa experiência em [*Como tornar o impossível acessível e divertido*](https://medium.com/@thcerutti/como-tornar-o-imposs%C3%ADvel-acess%C3%ADvel-e-divertido-o-papel-de-um-mentor-de-educa%C3%A7%C3%A3o-em-projetos-460927e1adde).
+> **Começando na programação? Minha DM está sempre aberta!** Vamos aprender juntos.
 
 ---
-*Curiosidade: Este perfil é atualizado entre um café e um commit.* ✨
+
+🏔️ Trekker (Monte Roraima ✔️) · 🥁 Percussão nas horas vagas · 🏃 Caçando um pace melhor
+
+*Este perfil é atualizado entre um café e um commit.* ✨
